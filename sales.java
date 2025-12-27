@@ -6,3 +6,5 @@ public class Main {
 System.out.println("Hello World!");
 System.out.println("This sentence will work!");
 System.out.println(This sentence will produce an error);
+System.out.print("Hello World! ");
+System.out.print("I will print on the same line.");
